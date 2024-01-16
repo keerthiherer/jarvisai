@@ -5,6 +5,8 @@ This is a python program which is a small part of ai automation. using few pacag
 
 Before running Install following commands...:
 
+Make a account in wolframalpha... and get api key.. replace the key in main.py in line 17.
+
 
 ==>pip install pyttsx3
 
@@ -29,3 +31,17 @@ Before running Install following commands...:
 ==>pip install wolframalpha
 
 ==>pip install pywhatkit
+
+Running:
+python main.py
+
+or
+
+open main.py
+
+![keerrr](https://github.com/keerthiherer/jarvisai/assets/136905413/05ba8bcb-148e-46f5-a239-b09d2e6be9c6)
+
+image of the coding part... and running part
+
+comment if there is any error while running the programm... i will help you to run this programm
+
