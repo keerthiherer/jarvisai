@@ -14,7 +14,7 @@ from bs4 import BeautifulSoup
 import wolframalpha
 import pywhatkit
 try:
-    app = wolframalpha.Client("5VWLT4-3GUJKPAVRK")
+    app = wolframalpha.Client("your api")
 except Exception:
     print("error occured")
 
